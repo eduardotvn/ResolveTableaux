@@ -4,7 +4,7 @@
 Forma de usar: 
 Este Resolvedor de Tableaux apenas utiliza lógica proposicional, não se valendo de lógica de primeira ordem em diante. 
 Proposições: ^ (e), v (ou), > (implica).
-Negação: ~.
+Negação: "~".
 Queremos descobrir se uma fórmula é válida(todas as suas interpretações serão verdade para quaisquer valores booleanos de suas proposições), podemos construir da seguinte forma:
 "A proposição p implica na proposição q":
 (p>q)
